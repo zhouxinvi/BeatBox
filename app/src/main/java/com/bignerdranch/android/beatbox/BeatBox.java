@@ -11,6 +11,8 @@ import java.util.List;
 public class BeatBox {
     private static final String TAG = "BeatBox";
     private static final String SOUNDS_FOLDER = "sample_sounds";
+    private static final String SD = "sd";
+    private static final String AS = "as";
 
     private AssetManager mAssets;
 
